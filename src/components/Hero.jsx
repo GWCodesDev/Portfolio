@@ -18,7 +18,7 @@ export default function Hero() {
             {/* Frame da Foto ajustável */}
             <div className="relative w-24 h-24 sm:w-32 sm:h-32 mt-2 sm:mt-0 border-2 border-emerald-400/80 rounded-full overflow-hidden shadow-[0_0_30px_rgba(16,185,129,0.3)] shrink-0">
               <img 
-                src="/Fotogw.PNG" 
+                src={`${import.meta.env.BASE_URL}Fotogw.PNG`} 
                 alt="Gabriel William" 
                 className="w-full h-full object-cover grayscale opacity-90 transition duration-500 hover:grayscale-0"
               />
