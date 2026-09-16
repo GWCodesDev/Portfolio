@@ -10,7 +10,7 @@ const output = {
   about: "Gabriel William · Fullstack Júnior\nEngenharia de Software focada em produtos modernos e bem construídos.",
   skills: "Frontend: React, JavaScript, UI/UX\nBackend: Node.js, PHP, APIs\nDados: SQL, MongoDB",
   projects: "Abrindo registry de projetos...",
-  contact: "Email: Gabrielw.soft@hotmail.com\nLinkedIn: /in/gabriel-william7",
+  contact: "Email: Gabrielgwcodes@gmail.com\nLinkedIn: /in/gwcodes",
   dashboard: "Abrindo capability map...",
   sudo: "Permissão negada. Mas boas decisões de arquitetura são bem-vindas.",
   coffee: "☕ Energia de build restaurada: +100%.\n",
